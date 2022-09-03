@@ -1,2 +1,2 @@
-## Cross-platform Game Development Framework
-**Mountains Chrome Extension** is a simple chrome extension example using basic Javascript and CSS and is the source repository for AHS CS First's 2022-2023 Chrome Extension workshop.
+## Mountains Wallpaper Extension
+**Mountains Wallpaper Extension** is a simple chrome extension example using basic Javascript and CSS and is the source repository for AHS CS First's 2022-2023 Chrome Extension workshop.
