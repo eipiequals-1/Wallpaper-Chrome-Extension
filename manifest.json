@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Mountains Background Theme",
+    "version": "1.0",
+
+    "description": "Beautiful mountains background theme.",
+    "icons": {},
+    "content_scripts": [{
+        "matches": ["https://www.google.com/"],
+        "css": ["main.css"],
+        "js": ["index.js"]
+    }]
+}
